@@ -14,7 +14,8 @@ public class Main {
 		try {
 
 			int choiceNum;
-
+			
+			System.out.println("HEALTH CLINIC PRO");
 			System.out.println("Welcome To  HealthClinicPro");
 			System.out.println("Choose According To Numbers");
 
