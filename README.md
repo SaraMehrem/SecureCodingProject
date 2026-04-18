@@ -1,5 +1,5 @@
 HealthClinicPro System
 
-A secure Java-based healthcare management system that allows record keepers, doctors, and patients to interact with the system. It supports user authentication, registration, and management of medical records with a focus on secure coding practices.
+A Java-based console application that simulates a healthcare management system with multiple user roles (Record Keeper, Doctor, and Patient). The system enables secure authentication, user registration, and medical record management while applying secure coding principles such as password hashing, input validation, exception handling, and logging. It also incorporates unit testing, integration testing, and security testing techniques to ensure reliability, maintainability, and protection against vulnerabilities.
 
 Code, threat model, and report.
